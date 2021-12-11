@@ -10,8 +10,8 @@
   <extension point="xbmc.python.module"
              library="lib" />
   <extension point="xbmc.addon.metadata">
-    <summary>dateutil - powerful extensions to datetime</summary>
-    <description>Packed for Kodi from https://github.com/dateutil/dateutil</description>
+    <summary lang="en_GB">dateutil - powerful extensions to datetime</summary>
+    <description lang="en_GB">Packed for Kodi from https://github.com/dateutil/dateutil</description>
     <platform>all</platform>
     <license>Revised BSD License</license>
     <website>https://dateutil.readthedocs.org/en/latest/</website>
