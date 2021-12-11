@@ -1,3 +1,7 @@
+Version 2.8.2
+
+- dateutil v2.8.2
+
 Version 2.8.1
 
 - dateutil v2.8.1
